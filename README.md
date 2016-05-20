@@ -1,4 +1,4 @@
-tableExport.jquery.plugin
+tableExport.jquery.plugin zh-CN
 =========================
 
 <h3>Export HTML Table to</h3>
